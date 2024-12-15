@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Item1",
+    "price": 100,
+    "size": "small"
+  },
+  {
+    "id": 2,
+    "name": "Item2",
+    "price": 150,
+    "size": "medium"
+  },
+  {
+    "id": 3,
+    "name": "Item3",
+    "price": 200,
+    "size": "large"
+  },
+  {
+    "name": "NewItem",
+    "price": 250,
+    "size": "medium",
+    "id": 4
+  }
+]
